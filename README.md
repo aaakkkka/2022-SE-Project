@@ -10,7 +10,7 @@
 ## team memebers 🌿
 | No. | Name | Student ID | Github Account |
 | --------------- | ------------------- | --------- | --------- |
-| **1st member:** | Bocong Huang | 602115501 | [Oralita](https://github.com/aaakkkka) |
+| **1st member:** | Bocong Huang | 602115501 | [aaakkkka](https://github.com/aaakkkka) |
 | **2nd member:** | Ruixe Si | 612115511 | [Suchanunsiri](a2312015064@gmail.com) |
 
 ## Our project is submiited
