@@ -11,7 +11,7 @@
 | No. | Name | Student ID | Github Account |
 | --------------- | ------------------- | --------- | --------- |
 | **1st member:** | Bocong Huang | 602115501 | [aaakkkka](https://github.com/aaakkkka) |
-| **2nd member:** | Ruixe Si | 612115511 | [Suchanunsiri](https://github.com/yellow-ground) |
+| **2nd member:** | Ruixe Si | 612115511 | [yellow-ground](https://github.com/yellow-ground) |
 
 ## Our project is submiited
 
