@@ -1,0 +1,7 @@
+version: "3.9"
+
+services:
+    web:
+        image: "oat431/se331-project"
+        ports: 
+            - 80:80
